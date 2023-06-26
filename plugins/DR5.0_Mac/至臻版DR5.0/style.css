@@ -1,0 +1,104 @@
+
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+button {
+overflow: hidden;
+box-shadow: 0px 0px 0px #343434;
+border: 0px;
+float:left;
+}
+
+button:active {
+outline: none;
+border: none;
+}
+
+button:focus {
+	outline:0;
+	border: none;
+	}
+
+.panel {
+	overflow: hidden;
+	width:238px;
+	padding:8px;
+	margin:0 auto;
+}
+
+.tools{
+	overflow: hidden;
+	display:block;
+	width:100%;
+	padding:0px;
+	padding-left:10px;
+  	margin:0 auto;
+  	text-align:center;
+	margin-bottom:2px;
+}
+
+.tool{
+	width:25px;
+	height:24px;
+	margin:4px;
+}
+
+.logo{
+	width:100%;
+	overflow: hidden;
+	display:block;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+#logo{
+	width:195px;
+	height:36px;
+	margin-left:12px;
+}
+
+.row {
+overflow: hidden;
+width:100%;
+display:block;
+margin-bottom:2px;
+}
+
+.mlone{
+	margin-left:1px;
+}
+.mtwo{
+	margin-left:2px;
+}
+.btnN{
+	width:109px;
+	height:30px;
+}
+.btnT{
+	width:29px;
+	height:30px;
+}
+.btnA{
+	width:80px;
+	height:30px;
+}
+.btnDs{
+	width:129px;
+	height:30px;
+}
+.btnDsa{
+	width:30px;
+	height:30px;
+}
+.btnLs{
+	width:100px;
+	height:30px;
+}
+.btnSs{
+	width:91px;
+	height:30px;
+}
+
